@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rami Ben Hamouda and I'm a Software Developer, from Tunisia</h2>
+<h2 align="left">Hi 👋! My name is Rami Ben Hamouda and I'm a Software Developer, in France</h2>
 
 ###
 
@@ -9,7 +9,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RamiBH120&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RamiBH120&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
