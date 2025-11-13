@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rami Ben Hamouda and I'm a Software Developer, in France</h2>
+<h2 align="left">Hi 👋! My name is Rami Ben Hamouda and I'm a Software Engineer.</h2>
 
 ###
 
