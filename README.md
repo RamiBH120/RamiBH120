@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Technologies that I use</h4>
+<h4 align="left">Technologies that I worked with during my career as a Software Engineer</h4>
 
 ###
 
@@ -45,13 +45,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
@@ -74,7 +74,7 @@
 
 ###
 
-<h4 align="left">You can find me on</h4>
+<h4 align="left">Ready to start a conversation? You can find me on</h4>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-<h4 align="left">My achievements</h4>
+<h4 align="left">My GitHub footprints for building something interesting!</h4>
 
 ###
 
